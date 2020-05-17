@@ -15,8 +15,8 @@ Run NodeJS scripts from your workflow with ease!
 
 **Inputs**
 |Parameter|Required|Type|Description
-|---|---|---
-|scriptExpression|Yes|String|The script to execute, needs to be in the form of a function body (return a value at the end of it)
+|---|---|---|---
+|scriptExpression|Yes|String|The script to execute, needs to be in the form of a function body (return a value at the end of it, see example below)
 
 **Outputs**
 |Parameter|Type|Description
