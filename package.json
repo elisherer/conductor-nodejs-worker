@@ -1,0 +1,22 @@
+{
+  "name": "conductor-nodejs-worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elisherer/conductor-nodejs-worker.git"
+  },
+  "author": "Eli Sherer (eli.sherer@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elisherer/conductor-nodejs-worker/issues"
+  },
+  "homepage": "https://github.com/elisherer/conductor-nodejs-worker#readme",
+  "dependencies": {
+    "conductor-client": "^1.1.0"
+  }
+}
